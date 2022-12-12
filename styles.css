@@ -1,6 +1,6 @@
 
 body {
-  background-color: #a4c2f4ff;
+  background-color: #F9E8BC;
   margin: 0;
   padding: 0;
 }
@@ -89,7 +89,7 @@ h4 {
 }
 
 .headers {
-  background-color: #e992a3;
+  background-color: #ef5a5a;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -141,7 +141,7 @@ p {
   border-style: solid;
   border-color: rgb(69, 69, 69);
   padding: 10px;
-  background-color: #e992a3;
+  background-color: #f9f996;
   border-radius: 25px;
   box-shadow: 5px 5px black; 
   font-family: sans-serif; 
@@ -155,7 +155,7 @@ p {
   border-style: solid;
   border-color: rgb(69, 69, 69);
   padding: 2px;
-  background-color: #ead9b4;
+  background-color: #f9f996;
   border-radius: 25px;
   box-shadow: 5px 5px black; 
   width: 500px;
@@ -166,7 +166,7 @@ p {
   border-radius: 24px;
   border-style: solid;
   border-color: #000000;
-  background-color: #8cdca3;
+  background-color: #ef5a5a;
   box-shadow: rgba(0, 0, 0, .2) 0 3px 5px -1px,rgba(0, 0, 0, .14) 0 6px 10px 0,rgba(0, 0, 0, .12) 0 1px 18px 0;
   box-sizing: border-box;
   color: #000000;
@@ -176,7 +176,7 @@ p {
 }
 
 .button:hover {
-  background-color: #ead9b4;
+  background-color: #ffa3a3;
 }
 
 
